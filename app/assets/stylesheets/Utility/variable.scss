@@ -1,0 +1,17 @@
+@for $value from 1 through 100 {
+	.u-mt#{$value} {
+		margin-top: 1px * $value !important;
+  }
+
+  .u-ml#{$value} {
+		margin-left: 1px * $value !important;
+  }
+
+  .u-mb#{$value} {
+		margin-bottom: 1px * $value !important;
+  }
+
+  .u-mr#{$value} {
+		margin-right: 1px * $value !important;
+	}
+}
