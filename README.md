@@ -14,11 +14,11 @@ user.email=example@example.com
 
 ### 1-2.Gitにユーザー名を登録する
 以下のコマンドをターミナルに入力してください。
-`git config --global user.name <username>`
+`git config --global user.name example`
 
 ### 1-3.Gitにメールアドレスを登録する
 以下のコマンドをターミナルに入力してください。
-`git config --global user.email <emailaddress>`
+`git config --global user.email example@example.com`
 
 ## 2.リポジトリをローカルにクローンする
 ### 2-1.クローンする
