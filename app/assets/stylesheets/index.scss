@@ -1,14 +1,15 @@
 //Component
 
 //Foundation
-@import 'Foundation/reset.scss';
+@import 'Foundation/reset';
 
 //Layout
-@import 'Layout/footer.scss';
-@import 'Layout/header.scss';
-@import 'Layout/main.scss';
+@import 'Layout/footer';
+@import 'Layout/header';
+@import 'Layout/main';
 
 //Project
+@import 'Project/home';
 
 //Utility
-@import 'Utility/variable.scss';
+@import 'Utility/variable';
